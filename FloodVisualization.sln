@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloodVisualization", "FloodVisualization\FloodVisualization.csproj", "{2C8E6582-E5FC-44AD-BA1E-C4E289D813AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C8E6582-E5FC-44AD-BA1E-C4E289D813AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8E6582-E5FC-44AD-BA1E-C4E289D813AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8E6582-E5FC-44AD-BA1E-C4E289D813AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8E6582-E5FC-44AD-BA1E-C4E289D813AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A2A091E-87E5-4C6D-B47E-5994F16DA769}
+	EndGlobalSection
+EndGlobal
